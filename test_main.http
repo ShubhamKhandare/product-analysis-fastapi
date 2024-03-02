@@ -1,0 +1,5 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:8000/product/B0188LUXOU/analyze/?fetch_from_amazon=Fals
+Accept: application/json
+###
